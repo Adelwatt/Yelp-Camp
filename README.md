@@ -1,1 +1,2 @@
 # Yelp-Camp
+Yelp-Camp is a web application designed to help outdoor enthusiasts discover and review camp spots. Built using JavaScript (Node.js) for the backend and MongoDB for the database, this application provides a robust platform for users to explore, add, and review campgrounds from around the world. Whether you're looking for the perfect campsite or want to share your own experiences, Yelp-Camp is your go-to destination for all things camping.
